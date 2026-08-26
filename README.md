@@ -1,0 +1,1 @@
+# summit-email-assets
