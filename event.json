@@ -1,0 +1,177 @@
+{
+ "_notes": "Worked example: Dec 1, 2026 – Budapest Summit 2. fejezet (FSI délután) + Digital Visionaries Club évzáró vacsora. [SZÖGLETES ZÁRÓJEL] = még megerősítendő adat.",
+ "event": {
+  "event_name": "Digital Visionaries Club",
+  "edition": "Xmas Edition 2026",
+  "kicker": "Exkluzív meghívó",
+  "headline": "Évzáró est a Borganikában",
+  "subheadline": "Marketingautomatizáció egy hazai biztosítónál – utána közös főzés és borkóstoló.",
+  "date_label": "2026. december 1., kedd",
+  "date_big": "dec. 1.",
+  "time_label": "18:00-tól (szakmai program: 18:30)",
+  "venue_label": "Borganika, Budapest",
+  "venue_full": "Borganika, 1072 Budapest, Akácfa utca 42–48. (a Klauzál téri Vásárcsarnok galériája)",
+  "cta_label": "Jelentkezem",
+  "theme": "winter",
+  "countdown_days": [
+   7,
+   1
+  ],
+  "footer_address": "Salesforce Magyarország · Budapest",
+  "speakers": []
+ },
+ "landing": {
+  "seo_title": "Budapest Summit – 2. fejezet · Salesforce",
+  "seo_description": "Zártkörű délután bankvezetőknek az AI-ügynökökről, utána évzáró vacsora. 2026. december 1., Budapest.",
+  "lead": "Szeptemberben megmutattuk, merre tart az agentic AI. Most a bankokra fókuszálunk: élő demók, egy hazai ügyfélsztori és őszinte beszélgetés arról, mi működik már élesben – utána évzáró vacsora a Digital Visionaries Club-bal.",
+  "secondary_cta": "Megnézem a programot",
+  "seats_note": "Meghívásos esemény, korlátozott létszámmal. A regisztrációt e-mailben visszaigazoljuk.",
+  "why": {
+   "eyebrow": "Miért érdemes eljönni",
+   "title": "Kevesebb dia, több valós példa",
+   "intro": "Nem a jövőről beszélünk, hanem arról, ami ma már működik a pénzügyi szektorban – és arról, mi kell ahhoz, hogy Önöknél is működjön.",
+   "cards": [
+    {
+     "title": "Élő demók banki helyzetekre",
+     "text": "Ügyfélszolgálat, értékesítés, onboarding: megnézzük, hol veszi le az AI-ügynök a rutint a kollégák válláról."
+    },
+    {
+     "title": "Hazai ügyfélsztori",
+     "text": "Egy magyar pénzintézet első kézből meséli el, hogyan jutott el a pilottól az éles bevezetésig."
+    },
+    {
+     "title": "Bizalom és compliance",
+     "text": "Adatvédelem, auditálhatóság, emberi kontroll – hogyan lesz az AI olyan, amit a kockázatkezelés is aláír."
+    }
+   ]
+  },
+  "agenda_eyebrow": "Program",
+  "agenda_title": "Így telik a délután",
+  "agenda": [
+   {
+    "time": "14:00",
+    "title": "Érkezés, kávé",
+    "kind": "break"
+   },
+   {
+    "time": "14:30",
+    "title": "Hol tartanak ma a bankok az AI-ügynökökkel?",
+    "text": "Rövid helyzetkép nemzetközi és hazai példákkal.",
+    "who": "Mátrai Géza, Salesforce"
+   },
+   {
+    "time": "15:00",
+    "title": "[Ügyfélsztori címe]",
+    "text": "Mit tanultak az első hónapokban – őszintén.",
+    "who": "[Ügyfél előadó], [bank]"
+   },
+   {
+    "time": "15:45",
+    "title": "Élőben: Agentforce a lakossági bankban",
+    "text": "Ügyfélszolgálati és értékesítési helyzetek, valós adatfolyamokkal."
+   },
+   {
+    "time": "16:30",
+    "title": "Szünet",
+    "kind": "break"
+   },
+   {
+    "time": "16:45",
+    "title": "AI, amit a compliance is aláír",
+    "text": "Adat, bizalom, felügyelet – kerekasztal-beszélgetés."
+   },
+   {
+    "time": "17:30",
+    "title": "Digital Visionaries Club – évzáró vacsora",
+    "text": "Háromfogásos vacsora, borok és egy kis meglepetés. Csak meghívottaknak."
+   },
+   {
+    "time": "21:00",
+    "title": "Zárás",
+    "kind": "break"
+   }
+  ],
+  "speakers_eyebrow": "Előadók",
+  "speakers_title": "Akiktől első kézből hallhat",
+  "experience": {
+   "eyebrow": "Az este",
+   "title": "Utána koccintunk",
+   "text": "A szakmai rész után a Digital Visionaries Club évzáró vacsorája következik: jó ételek, gondosan válogatott borok és kötetlen beszélgetések azokkal, akik ugyanazokon a kérdéseken dolgoznak, mint Ön."
+  },
+  "register": {
+   "eyebrow": "Regisztráció",
+   "title": "Foglalja le a helyét",
+   "text": "A részvétel ingyenes, de a létszám korlátozott. Jelentkezés után néhány napon belül visszaigazoljuk a regisztrációt.",
+   "bullets": [
+    "Délutáni szakmai program és évzáró vacsora",
+    "Bankvezetők és döntéshozók zártkörű társasága",
+    "Az előadások anyagait utólag megosztjuk"
+   ],
+   "button": "Regisztrálok",
+   "fineprint": "Kérdése van? Írjon nekünk: [KAPCSOLATTARTÓ E-MAIL].",
+   "form_action": ""
+  },
+  "faq_title": "Jó tudni",
+  "faq": [
+   {
+    "q": "Mennyibe kerül a részvétel?",
+    "a": "Semmibe. A rendezvény meghívásos és ingyenes."
+   },
+   {
+    "q": "Mi a dress code?",
+    "a": "Business casual. Az esti vacsorához sem kell nagyestélyi."
+   },
+   {
+    "q": "Milyen nyelven zajlik?",
+    "a": "Magyarul. Ha egy előadás angol nyelvű, azt előre jelezzük."
+   },
+   {
+    "q": "Hozhatok kollégát?",
+    "a": "Szívesen látjuk – kérjük, ő is regisztráljon, hogy biztosan legyen helye."
+   },
+   {
+    "q": "Csak a délutáni programra vagy csak a vacsorára is jöhetek?",
+    "a": "Igen, a regisztrációnál jelezheti. Jobban örülünk, ha mindkettőn ott van."
+   }
+  ],
+  "footer_contact": "Kapcsolat: [KAPCSOLATTARTÓ NEVE] · [E-MAIL]"
+ },
+ "emails": [
+  {
+   "id": "invite",
+   "subject": "Exkluzív meghívó – Salesforce Digital Visionaries Club (Xmas Edition 2026)",
+   "preheader": "Zárt körű évzáró este: biztosítói marketingautomatizáció, közös főzés és borkóstoló a Borganikában.",
+   "kicker": "Exkluzív meghívó",
+   "h1": "Digital Visionaries Club – Xmas Edition 2026",
+   "header_alt": "Salesforce Digital Visionaries Club – Xmas Edition 2026",
+   "greeting": "Kedves [Címzett neve]!",
+   "paragraphs": [
+    "Szeretettel meghívjuk Önt a Salesforce újabb, zártkörű <em>Digital Visionaries Club</em> rendezvényére. Szakmai programként ezúttal is a digitális marketing és a perszonalizáció világából hozunk egy esettanulmányt: betekintünk <strong>egy magyarországi biztosító marketingautomatizációs projektjének</strong> kulisszái mögé.",
+    "Az estnek a <strong>Borganika</strong> ad otthont. A Klauzál téri Vásárcsarnok galériáján kialakított, loft hangulatú gasztronómiai térben szűk körben ülünk az ünnepi asztalhoz, ahol <strong>Deutsch-Fehérváry Mercedes</strong> különleges <strong>receptjei</strong> elevenednek meg. Fogásai a főzés szeretetéről és az együtt töltött pillanatok öröméről is mesélnek.",
+    "Ezen az estén három dolog vár Önre:"
+   ],
+   "bullets": [
+    {
+     "title": "Kakaós-mákos babka",
+     "text": "a vacsora egyik fénypontja. A desszert a vendégek szeme előtt készül, és vaníliasodóval kerül az asztalra. Aki kedvet kap, a pult mögé is beállhat, és kipróbálhatja a babkafonást."
+    },
+    {
+     "title": "Borkóstoló",
+     "text": "<strong>Fehér Anna</strong> a <strong>Koch Borászat</strong> három kiemelkedő borát mutatja be, személyes történetekkel, és a borkészítés részleteibe is beavat bennünket."
+    },
+    {
+     "title": "Biztosítói esettanulmány",
+     "text": "kulisszatitkok egy hazai marketingautomatizációs projektből."
+    }
+   ],
+   "facts_extra": "<strong>Határidő:</strong> november 19.",
+   "cta_label": "Jelentkezem",
+   "cta_url": "[REGISZTRÁCIÓS LINK]",
+   "cta_note": "A férőhelyek száma korlátozott. Kérjük, részvételi szándékát mielőbb, de legkésőbb november 19-ig jelezze.",
+   "closing": "Szeretettel várjuk egy kötetlen évzáró estére, ahol az ünnepi készülődés közepette jut idő egy kis szakmázásra, közös főzésre és kóstolásra, majd egy jó beszélgetésre az asztal körül.",
+   "sender_name": "A Salesforce csapata",
+   "sender_title": ""
+  }
+ ],
+ "linkedin": []
+}
